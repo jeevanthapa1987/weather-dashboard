@@ -24,6 +24,7 @@ This is a simple weather dashboard web application that allows users to search f
 5. You can click on any previously searched city in the search history to view its weather information again.
 
 ## Website:
+https://jeevanthapa1987.github.io/weather-dashboard/
 
 
 
