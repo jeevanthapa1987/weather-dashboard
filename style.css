@@ -1,0 +1,80 @@
+/* Update header styles */
+header {
+  padding: 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+}
+
+/* Update form styles */
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Update main styles */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Update weather card styles */
+.weather-card {
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  width: 250px;
+  text-align: center;
+}
+
+/* Update search history styles */
+aside {
+  width: 250px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+}
+
+/* Update UV index colors */
+.uv-index {
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.low {
+  background-color: #7CFC00; /* Light Green */
+}
+
+.moderate {
+  background-color: #FFFF00; /* Yellow */
+}
+
+.high {
+  background-color: #FFA500; /* Orange */
+}
+
+.very-high {
+  background-color: #FF0000; /* Red */
+}
+
+/* Add more styles for future weather forecast */
